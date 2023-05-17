@@ -1,5 +1,5 @@
 {
-    "name": "PHP 7, MariaDB, Nginx, PHPMyAdmin, XDebug",
+    "name": "PHP7 MariaDB Xdebug",
     "dockerComposeFile": "../docker-compose.yml",
     "service": "app",
 	"workspaceFolder": "/workspaces/visual-voice/${localWorkspaceFolderBasename}",
